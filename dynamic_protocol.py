@@ -76,7 +76,7 @@ def main():
 
     step3 = f"Add water to a final volume of {float(final_vol)} ml and mix"
 
-    # print statement asking user to add water to the final volume of 3.0 ml
+    # print statement asking user to add water to the final volume
     # Protocol, we can then just print things out b/c they have been formatted earlier`
 
     print(step1 + step2 + step3)
