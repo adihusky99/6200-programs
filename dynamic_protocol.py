@@ -85,6 +85,6 @@ def main():
 
 if __name__ == '__main__':
 
-    #
+    # prints out step 1, 2 and 3
 
     main()
